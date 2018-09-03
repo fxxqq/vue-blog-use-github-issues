@@ -22,7 +22,13 @@
         <router-link :class="isWebNav ? 'selected-menu':''" tag="li" :to="{name: 'WebNav'}">
           <span>前端导航</span>
         </router-link>
-        <!-- <router-link :class="isAboutMe ? 'selected-menu':''" tag="li" :to="{name: 'AboutMe'}"><span>关于我</span></router-link> -->
+        <li class="">
+          <span>
+            <a href="https://ye63.com">清新版</a>
+          </span>
+
+        </li>
+
       </ul>
       <span id='cnzz_stat_icon_1262532008'></span>
       <div v-if="showQQGroup" class="qq-group">
@@ -147,7 +153,7 @@ export default {
     toggleMenu() {
       this.showMenu = !this.showMenu
     },
-    
+
   }
 }
 </script>

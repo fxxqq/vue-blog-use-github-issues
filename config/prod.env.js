@@ -1,4 +1,4 @@
 module.exports = {
     NODE_ENV: '"production"',
-    publicPath: "https://ye63.com/"
+    publicPath: "https://ye63.com/jy/"
 }
