@@ -32,7 +32,7 @@
       </ul>
       <span id='cnzz_stat_icon_1262532008'></span>
       <div v-if="showQQGroup" class="qq-group">
-        <img src="/static/img/subscription.jpg">
+        <img src="/jy/static/img/subscription.jpg">
       </div>
 
       <div class="copyright">@ {{copyright}}</div>
