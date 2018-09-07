@@ -99,7 +99,7 @@ npm run build
 > 1.在「GitHub Pages」根目录下添加文件名为「CNAME」的文件，文件内容就是你的二级域名，例如我的是
 
 ```
-www.ye63.cn
+www.ye63.com
 ```
 > 2.登录你的域名控制台添加域名解析
 
